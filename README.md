@@ -32,3 +32,40 @@
 - 2층 신경망: XOR 이진 분류
 - 2D 정규분포 데이터 생성 및 분류
 - IRIS 데이터 분류
+
+### Chapter06 데이터 셋: tf.keras.datasets
+- Boston_housing 데이터 셋
+- IMDB 데이터 셋
+- Reuters 데이터 셋
+- MNIST 데이터 셋
+- Fashion_MNIST 데이터 셋
+- CIFAR - 10 데이터 셋
+- CIFAR - 100 데이터 셋
+
+### Chapter07 콜백: 학습 모니터링
+- 콜백
+- 텐서보드
+
+### Chapter08 그래디언트 소실과 과적합
+- 그래디언트 소실과 가중치 초기화
+- 배치정규화
+- 과적합, 가중치 규제, 드롭아웃
+- 드롭아웃
+
+### Chapter09 합성곱 신경망(CNN)
+- 패딩
+- 1차원 풀링
+- 1차원 합성곱
+- 1차원 합성곱 신경망(CNN) 분류
+- 2차원 풀링
+- 2차원 합성곱
+- 2차원 합성곱 신경망(CNN)
+
+### Chapter10 함수형 API
+- tf.keras.layers 층
+- 함수형 API 합성곱 신경망(CNN)
+
+### Chapter11 사전학습 모델: tf.keras.applications
+- VGG 모델
+- ResNet 모델
+- Inception, GoogLeNet
