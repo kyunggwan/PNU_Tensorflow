@@ -69,3 +69,16 @@
 - VGG 모델
 - ResNet 모델
 - Inception, GoogLeNet
+
+### Chapter13 업 샘플링, 전치 합성곱, 오토 인코더, GAN
+- 업 샘플링
+- 전치 합성곱
+- 오토 인코더
+- 절대적 생성모델(GAN) 모델
+
+### Chapter14 영상 분할, 검출, CoLab
+- Oxford-IIIT Pet Dataset
+- Oxford-IIIT Pet Dataset 분류
+- U-Net 영상분할
+- 물체 위치검출 및 분류
+- Colab 
